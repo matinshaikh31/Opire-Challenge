@@ -3,7 +3,7 @@
 
 A visually appealing and modern developer statistics card built using **React**, **TypeScript**, and **Tailwind**. This card showcases key statistics for Opire developers, including GitHub metsurics such as resolved ises, earnings, and achievements. Perfect for embedding in your website or sharing your developer stats seamlessly.
 
-![https://opire-challenge.vercel.app]
+![(https://devcard-six.vercel.app/)]
 
 ## ✨ Features
 
