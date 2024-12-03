@@ -1,22 +1,39 @@
+
 # Opire Dev Card 🎨
 
-A visually appealing and modern developer statistics card built using **React**, **TypeScript**, **Mantine**. This card showcases key statistics for developers, including GitHub metrics such as resolved issues, earnings, and achievements. Perfect for embedding on your website, sharing your developer stats, or adding a professional touch to your portfolio.
+A visually appealing and modern developer statistics card built using **React**, **TypeScript**, and **Tailwind**. This card showcases key statistics for Opire developers, including GitHub metsurics such as resolved ises, earnings, and achievements. Perfect for embedding in your website or sharing your developer stats seamlessly.
 
-![Opire Dev Card Demo](https://i.imghippo.com/files/yirP5602Zt.png)
+![https://opire-challenge.vercel.app]
 
-### 🚀 [Live Demo](https://opire-devcard-challenge.vercel.app/)
+## ✨ Features
 
----
+- 🎨 **Visually Appealing**: Clean, modern design with animations
+- 📊 **Developer Metrics**: Display your avatar, issues resolved, earnings, and other key stats
+- 📱 **Responsive**: Fully responsive design that works seamlessly across all screen sizes
+- 🔗 **Embeddable**: Easy to share by embedding into any website or social media platform
 
-## Features
-- 📦 **Developer Statistics**: Showcases resolved issues, challenges won, PRs created, contributed repositories, and more.
-- 🎨 **Modern Design**: Inspired by popular event badges and stat cards with a clean and responsive design.
-- 🔗 **Social Links**: Add GitHub, LinkedIn, and X (formerly Twitter) links.
-- 🕹️ **Interactive Hover Animation**: Card tilts interactively with a gyro-like effect on hover.
-- 🌐 **Embeddable**: Embed the card into your portfolio, blog, or website easily.
-- ⚡ **Built with Mantine**: Combines the power of Mantine components styling.
+## 🚀 Getting Started
 
----
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/VijinV/Opire-challenge
+   cd Opire-challenge
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser and navigate to `http://localhost:5173`
+
 
 ## Tech Stack
 - **React**: Front-end framework for building the interactive UI.
